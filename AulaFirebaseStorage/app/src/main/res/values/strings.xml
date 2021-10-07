@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AulaFirebaseStorage</string>
+    <string name="upload">Upload</string>
+</resources>
